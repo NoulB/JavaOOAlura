@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="703d9d12-ff91-425f-8fdf-e51dc1e6448c" name="Default Changelist" comment="" />
+    <list default="true" id="703d9d12-ff91-425f-8fdf-e51dc1e6448c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/ColculadorImposto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/Tributavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AutenticacaoUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Administrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Administrador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +25,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1UTVhM6Ce1koSVCxgNCJihGYMAr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +39,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../bytebank-herdado-conta" />
@@ -78,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575380689083</updated>
-      <workItem from="1575380693684" duration="13493000" />
+      <workItem from="1575380693684" duration="18915000" />
     </task>
     <servers />
   </component>
