@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25be2f64-c2fe-445c-ae54-71bcefbe6046" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ColculadorImposto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tributavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank-herdado2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank-herdado2/src/AutenticacaoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SeguroDeVida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TesteTributaveis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ContaCorrente.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ContaCorrente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ColculadorImposto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculadorImposto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaCorrente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bytebank-herdado2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-herdado2/src/Administrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado2/src/Administrador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-herdado2/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado2/src/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-herdado2/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado2/src/Gerente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +41,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../zoop-api-settings" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TesteTributaveis">
     <configuration name="TesteContas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TesteContas" />
       <module name="bytebank-herdado-conta" />
@@ -54,8 +58,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteTributaveis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteTributaveis" />
+      <module name="bytebank-herdado-conta" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteTributaveis" />
         <item itemvalue="Application.TesteContas" />
       </list>
     </recent_temporary>
@@ -71,6 +83,7 @@
         </serviceView>
       </list>
     </option>
+    <option name="showServicesTree" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -83,7 +96,8 @@
       <option name="presentableId" value="Default" />
       <updated>1575380191413</updated>
       <workItem from="1575380203993" duration="283000" />
-      <workItem from="1575400246587" duration="2652000" />
+      <workItem from="1575400246587" duration="5090000" />
+      <workItem from="1575558236661" duration="4332000" />
     </task>
     <servers />
   </component>
@@ -91,14 +105,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1243" y="231" width="374" height="572" key="#com.intellij.ide.util.MemberChooser" timestamp="1575563306495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1243" y="231" width="374" height="572" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1575563306495" />
     <state x="808" y="411" width="293" height="211" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575380248293">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="808" y="411" width="293" height="211" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575380248293" />
-    <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl" timestamp="1575380484331">
+    <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl" timestamp="1575557871787">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1575380484331" />
+    <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1575557871787" />
     <state width="1878" height="269" key="GridCell.Tab.0.bottom" timestamp="1575380486438">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -119,5 +137,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="464" y="154" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575380430192" />
+    <state x="1040" y="88" width="791" height="864" key="find.popup" timestamp="1575567237091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1040" y="88" width="791" height="864" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575567237091" />
+    <state x="1180" y="151" width="500" height="732" key="refactoring.ChangeSignatureDialog" timestamp="1575563461936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1180" y="151" width="500" height="732" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575563461936" />
+    <state x="1098" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1575568020062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1098" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575568020062" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-public class ColculadorImposto {
+public class CalculadorImposto {
 
     private double totalImposto;
 
@@ -7,7 +7,7 @@ public class ColculadorImposto {
         this.totalImposto += valor;
     }
 
-    public double getTotalImposto{
-        return totalImposto
+    public double getTotalImposto(){
+        return totalImposto;
     }
 }
