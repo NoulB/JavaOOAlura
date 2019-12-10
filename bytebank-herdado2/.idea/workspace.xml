@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="703d9d12-ff91-425f-8fdf-e51dc1e6448c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/SeguroDeVida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/TesteTributaveis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/bin/ContaCorrente.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/bin/ContaCorrente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/src/ColculadorImposto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/CalculadorImposto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/src/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/ContaCorrente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
